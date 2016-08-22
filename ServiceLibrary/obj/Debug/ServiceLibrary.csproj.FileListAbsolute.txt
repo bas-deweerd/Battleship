@@ -1,0 +1,8 @@
+C:\Users\Bas\Desktop\DNET\trunk\Battleship\ServiceLibrary\obj\Debug\ServiceLibrary.Properties.Resources.resources
+C:\Users\Bas\Desktop\DNET\trunk\Battleship\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.GenerateResource.Cache
+C:\Users\Bas\Desktop\DNET\trunk\Battleship\ServiceLibrary\bin\Debug\ServiceLibrary.dll.config
+C:\Users\Bas\Desktop\DNET\trunk\Battleship\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+C:\Users\Bas\Desktop\DNET\trunk\Battleship\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+C:\Users\Bas\Desktop\DNET\trunk\Battleship\ServiceLibrary\obj\Debug\ServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bas\Desktop\DNET\trunk\Battleship\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+C:\Users\Bas\Desktop\DNET\trunk\Battleship\ServiceLibrary\obj\Debug\ServiceLibrary.pdb

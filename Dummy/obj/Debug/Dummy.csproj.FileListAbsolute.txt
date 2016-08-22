@@ -1,0 +1,5 @@
+C:\Users\Bas\Desktop\DNET\trunk\Battleship\Dummy\bin\Debug\Dummy.exe.config
+C:\Users\Bas\Desktop\DNET\trunk\Battleship\Dummy\bin\Debug\Dummy.exe
+C:\Users\Bas\Desktop\DNET\trunk\Battleship\Dummy\bin\Debug\Dummy.pdb
+C:\Users\Bas\Desktop\DNET\trunk\Battleship\Dummy\obj\Debug\Dummy.exe
+C:\Users\Bas\Desktop\DNET\trunk\Battleship\Dummy\obj\Debug\Dummy.pdb

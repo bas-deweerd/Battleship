@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <email>test</email>
+    <password>Password</password>
+  </user>
+  <user>
+    <email>newemail</email>
+    <password>newpass</password>
+  </user>
+  <user>
+    <email>25</email>
+    <password>30</password>
+  </user>
+</users>
